@@ -14,7 +14,7 @@ export const GifExpertApp = () => {
     return (
         <>
 
-            <h1>GifExpertApp</h1>
+            <h1>GifExpertAppi</h1>
 
     
             <AddCategory 
